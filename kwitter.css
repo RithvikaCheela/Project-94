@@ -9,8 +9,10 @@ body{
 .login_div
 {
 	background: rgba(255,255,255,0.8);
-  border-radius: 15px;
-  margin-left: 430;
+ 	border-radius: 15px;
+	margin-left: 20%;
+	margin-right: 20%;
+	float: none;
 }
 #login_button
 {
